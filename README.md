@@ -1,2 +1,1 @@
-# Transaction-Mapping
-Using keyword mapping to categorise transactions and produce breakdown.
+I produced this code to improve the accuracy of the monzo transaction categorisation code after noticing a large proportion of my payments were being classified as general. This code could be improved using more financial data and a machine learning model. Natural language could also be used to improved accuracy of keyword mapping. 
